@@ -11,3 +11,17 @@ CTestTestfile.cmake
 _deps
 
 *.o
+
+PFPLD/cvtcaffe/onnx2caffe/__pycache__/
+
+PFPLD/pfpld_ncnn/.idea/
+
+PFPLD/.idea/
+
+*.pyc
+
+tmp_test/
+
+PFPLD/models/checkpoint/model-wing/
+
+PFPLD/models/checkpoint/tensorboard/
